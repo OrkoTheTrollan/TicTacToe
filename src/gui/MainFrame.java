@@ -14,7 +14,7 @@ public class MainFrame extends JFrame{
 	public MainFrame(PanelScore ps, PanelGame pg, MyMenu mm) {
 		
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		this.setSize(612, 688);
+		this.setSize(615, 704);
 		this.setTitle("TicTacToe");
 		this.setBackground(Color.BLACK);
 		this.setResizable(false);

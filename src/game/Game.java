@@ -12,8 +12,8 @@ import gui.PanelScore;
 
 public class Game implements ActionListener {
 
-    private int score1 = 0;
-    private int score2 = 0;
+    private int score1;
+    private int score2;
 
     PanelScore ps = new PanelScore();
 	PanelGame pg = new PanelGame();
